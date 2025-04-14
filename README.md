@@ -2,4 +2,4 @@
 
 An exploration of the causes and effects of human body sway.
 
-https://pranavrajaram.github.io/swaylab/
+https://achinnam09.github.io/swaylab/
